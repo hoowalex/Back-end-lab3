@@ -1,0 +1,7 @@
+apple banana mango
+orange banana grape
+apple grape mango
+kiwi apple grape
+pear banana mango
+orange banana grape
+pear banana mango

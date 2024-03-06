@@ -1,0 +1,8 @@
+apple apple banana banana banana banana banana grape grape
+apple grape
+pear grape
+pear mango
+ mango
+kiwi mango
+orange mango
+orange
